@@ -85,7 +85,7 @@ function draw() {
       }
     }
 
-    if(count >= 1) {
+    if(count >= 10) {
       gameState = "end";
     }
   }
